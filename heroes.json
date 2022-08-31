@@ -1,22 +1,10 @@
 {
   "heroes": [
     {
-      "id": "33438844-d008-4d7b-9588-11f511bf48a6",
-      "name": "Иван",
-      "description": "dcd",
+      "id": "86ff6ad2-61e4-443f-904b-af10df1a11d8",
+      "name": "Ha-ha",
+      "description": "nothing",
       "element": "water"
-    },
-    {
-      "id": "85eda39c-4c14-49e7-84e7-451f84a03301",
-      "name": "rgreg",
-      "description": "gerg",
-      "element": "fire"
-    },
-    {
-      "id": "b4ea46d9-66ac-43bc-aa1e-176aca27a6c6",
-      "name": "Иван",
-      "description": "528",
-      "element": "wind"
     }
   ],
   "filters": [

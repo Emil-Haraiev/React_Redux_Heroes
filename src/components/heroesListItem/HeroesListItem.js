@@ -2,20 +2,20 @@ const HeroesListItem = ({ name, description, element, onDelete }) => {
   let elementClassName;
 
   switch (element) {
-    case "fire":
-      elementClassName = "bg-danger bg-gradient";
+    case 'fire':
+      elementClassName = 'bg-danger bg-gradient';
       break;
-    case "water":
-      elementClassName = "bg-primary bg-gradient";
+    case 'water':
+      elementClassName = 'bg-primary bg-gradient';
       break;
-    case "wind":
-      elementClassName = "bg-success bg-gradient";
+    case 'wind':
+      elementClassName = 'bg-success bg-gradient';
       break;
-    case "earth":
-      elementClassName = "bg-secondary bg-gradient";
+    case 'earth':
+      elementClassName = 'bg-secondary bg-gradient';
       break;
     default:
-      elementClassName = "bg-warning bg-gradient";
+      elementClassName = 'bg-warning bg-gradient';
   }
 
   return (
@@ -26,7 +26,7 @@ const HeroesListItem = ({ name, description, element, onDelete }) => {
         src="http://www.stpaulsteinbach.org/wp-content/uploads/2014/09/unknown-hero.jpg"
         className="img-fluid w-25 d-inline"
         alt="unknown hero"
-        style={{ objectFit: "cover" }}
+        style={{ objectFit: 'cover' }}
       />
       <div className="card-body">
         <h3 className="card-title">{name}</h3>
