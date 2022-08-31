@@ -5,6 +5,18 @@
       "name": "Ha-ha",
       "description": "nothing",
       "element": "water"
+    },
+    {
+      "id": "b2b7ddb3-edae-44bf-8330-b0a8c937debe",
+      "name": "G1",
+      "description": "14789632159635741",
+      "element": "earth"
+    },
+    {
+      "id": "0adf8c70-4d2e-422b-8bcd-f37e89d46551",
+      "name": "juj",
+      "description": "hu",
+      "element": "fire"
     }
   ],
   "filters": [
