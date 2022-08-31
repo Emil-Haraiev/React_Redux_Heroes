@@ -17,6 +17,12 @@
       "name": "juj",
       "description": "hu",
       "element": "fire"
+    },
+    {
+      "id": "d20feab1-550b-476d-a51d-e713ccd418d1",
+      "name": "dsad",
+      "description": "dasdad",
+      "element": "wind"
     }
   ],
   "filters": [
